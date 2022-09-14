@@ -1,8 +1,6 @@
 # JS-Mastery
 
-check out the course (https://codewithmosh.com/p/javascript-basics-for-beginners)
-
-Master JS Basics
+Master JavaScript
 
 # How to run a script
 
@@ -136,4 +134,15 @@ Head over to chrome, right click and go in to inspect, from there navigate to co
 │   └── 12.ex1.sum.of.arguments.js
 │   └── 13.ex2.area.of.circle.js
 │   └── 14.ex3.error.handling.js
+│
+├── 7.tricky exercises
+│   └── 1.swap.two.varaibles.js
+│   └── 2.check.prime.numbers.js
+│   └── 3.sort.array.display.second.largest.js
+│   └── 4.string.pattern.regex.js
+│   └── 5.callback.function.js
+│   └── 6.shallow.and.deep.copy.js
+|   └── 7.object.freeze
+│   └── 8.cloures.js
+|
 ```
